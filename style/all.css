@@ -1,0 +1,37 @@
+@import "reset.css";
+
+body {
+  overflow: hidden;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  text-decoration: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+h1 {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+h2 {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+
+.zero {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
