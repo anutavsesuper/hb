@@ -78,5 +78,8 @@ nav {
   height: 100%;
   justify-content: flex-end;
   align-items: center;
+}
+
+.textmenu {
   margin-right: 3vw;
 }
