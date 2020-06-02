@@ -7,6 +7,7 @@
 
 body {
   background-color: #69A4FF;
+  cursor:url(../img/cursor3.svg), auto !important;
 }
 
 h1 {
