@@ -1,5 +1,20 @@
 @import "reset.css";
 
+
+@font-face {
+  font-family: "ArialRegular";
+  src: url("../fonts/ArialRegular/ArialRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "ArialBlack"; */
+@font-face {
+  font-family: "ArialBlack";
+  src: url("../fonts/ArialBlack/ArialBlack.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
 body {
   overflow: hidden;
   margin: 0;
@@ -9,7 +24,7 @@ body {
 }
 
 a {
-  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  font-family: "ArialBlack";
   font-style: normal;
   font-variant: normal;
   text-decoration: none;
